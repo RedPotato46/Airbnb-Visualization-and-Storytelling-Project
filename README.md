@@ -23,8 +23,7 @@ Create a dashboard with an overview of Airbnb for your city. This dashboard shou
 
 Overview Dashboard II
 
-Create another dashboard that dives deeper into the characteristics of the listings in Amsterdam.The Tableau Public dashboard link is provided above- https://public.tableau.com/shared/XQ78M7W7G?:display_count=n&:origin=viz_shar
- e_link 
+Create another dashboard that dives deeper into the characteristics of the listings in Amsterdam.The Tableau Public dashboard link is provided above- https://public.tableau.com/shared/XQ78M7W7G?:display_count=n&:origin=viz_share_link 
 
 ## Assignment Part II - Python Analysis
 
