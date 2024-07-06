@@ -15,7 +15,7 @@ The following dataset is provided in the documentation.
 
 # Tasks
 
-Assignment Part I - Tableau Dashboards
+#Assignment Part I - Tableau Dashboards
 
 Overview Dashboard I
 
@@ -25,7 +25,7 @@ Overview Dashboard II
 
 Create another dashboard that dives deeper into the characteristics of the listings in Amsterdam. 
 
-Assignment Part II - Python Analysis
+#Assignment Part II - Python Analysis
 
-Assignment Part III - Executive Summary
+#Assignment Part III - Executive Summary
 
